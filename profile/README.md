@@ -4,7 +4,7 @@
      
 ## About the company
 
-At [idealista](https://www.idealista.com), the leading online real estate classifieds platform in Southern Europe, we've been helping our users overcome the stress and frustration of finding a home in Southern Europe since 2000.
+At [idealista](https://www.idealista.com), the leading online real estate classifieds platform in Southern Europe, we've been helping our users overcome the stress and frustration of finding a home since 2000.
 
 * [Explore jobs at idealista](https://www.idealista.com/empleo/ofertas/)
 
